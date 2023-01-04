@@ -8,6 +8,7 @@
 4. I chose to keep the card styling minimal to avoid the word clutter 
 5. I conditional changed the pill color to show whether the repository is enabled or disabled to improve the user experience
 6. Header is sticky to improve user journey
+7. The design is responsive on different browsers and devices
 
 ## Stack
 Tailwind CSS was used to style the project. JavaScript is used with HTML to create the standalone web page.
